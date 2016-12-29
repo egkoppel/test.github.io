@@ -5,3 +5,7 @@ node_js:
 branches:
   only:
   - web
+
+script:
+  - echo "Doing stuff"
+  
